@@ -1,2 +1,3 @@
 # weather-app
-node.js app to check the realtime weather of any location
+node.js & Express JS app to check the realtime weather of any location
+![alt text](https://raw.githubusercontent.com/tito-coffee/weather-app/Screen Shot.png)

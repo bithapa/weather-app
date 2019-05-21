@@ -15,6 +15,7 @@ const body_parser = require('body-parser');
 const request = require('request');
 
 // apiKey can be generated from https://openweathermap.org/api
+// without the api the app does not work
 const apiKey = '***';
 
 /* give Express access to the files in public directory */
